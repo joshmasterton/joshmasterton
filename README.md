@@ -37,7 +37,7 @@
 
 #### Get in Touch
 
-- 📫 **Email:** [josh.masterton@example.com](mailto:joshmasterton@tuta.io)
+- 📫 **Email:** [joshmasterton@tuta.io](mailto:joshmasterton@tuta.io)
 - 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/josh-masterton-309183299/)
 - 🐦 **Twitter:** [@joshmasterton](https://twitter.com/joshmasterton)
 
