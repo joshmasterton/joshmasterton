@@ -33,7 +33,7 @@
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshmasterton&show_icons=true&theme=dark)
 
 #### Recent Activity
-- 📝 Working on Statalize: Building and improving features for my personal project, Statalize.
+- 📝 Working on Pikoria: Building and improving features for my personal project, Pikoria.
 
 #### Get in Touch
 
